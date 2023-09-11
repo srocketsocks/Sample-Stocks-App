@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DD6BB874-841E-4D3E-B92C-FF607A93A210"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "672AF9A5-8E61-4FFF-93FB-A64F82A76D2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "314"
+            endingLineNumber = "314"
+            landmarkName = "tableView(_:viewForHeaderInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F89AF01-69FF-4B9A-A3C5-C1DD2B620359"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "321"
+            endingLineNumber = "321"
+            landmarkName = "tableView(_:viewForHeaderInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74B02C01-6EFF-4D38-8DC9-6FFF5BB7F8B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "tableView(_:viewForHeaderInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74B02C01-6EFF-4D38-8DC9-6FFF5BB7F8B5 - 19c8ff1c130ec10"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.MyStocksViewController.tableView(_: __C.UITableView, viewForHeaderInSection: Swift.Int) -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/MyStocksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "2036">
+               </Location>
+               <Location
+                  uuid = "74B02C01-6EFF-4D38-8DC9-6FFF5BB7F8B5 - 19c8ff1c130ec31"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.MyStocksViewController.tableView(_: __C.UITableView, viewForHeaderInSection: Swift.Int) -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/MyStocksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "2036">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70BA7E1D-6B6F-47A4-9AA6-BCC69A20D1C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "334"
+            endingLineNumber = "334"
+            landmarkName = "tableView(_:titleForHeaderInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70BA7E1D-6B6F-47A4-9AA6-BCC69A20D1C3 - aa5f3a626f1b9828"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.MyStocksViewController.tableView(_: __C.UITableView, titleForHeaderInSection: Swift.Int) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/MyStocksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "70BA7E1D-6B6F-47A4-9AA6-BCC69A20D1C3 - aa5f3a626f1b9809"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.MyStocksViewController.tableView(_: __C.UITableView, titleForHeaderInSection: Swift.Int) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/MyStocksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "304"
+                  endingLineNumber = "304"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3567160D-C707-4582-AD9F-32E056C67117"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3567160D-C707-4582-AD9F-32E056C67117 - 9aa787e6032cad4e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.MyStocksViewController.tableView(_: __C.UITableView, commit: __C.UITableViewCellEditingStyle, forRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/MyStocksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "308"
+                  endingLineNumber = "308"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "3567160D-C707-4582-AD9F-32E056C67117 - 9aa787e6032cada9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.MyStocksViewController.tableView(_: __C.UITableView, commit: __C.UITableViewCellEditingStyle, forRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/MyStocksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "309"
+                  endingLineNumber = "309"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0C23AA7-4986-41A2-9E79-D18B86C4B5B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "374"
+            endingLineNumber = "374"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C1076A5-AB55-4291-86DE-DCF64FFA2F3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/Model/Finnhub.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "path"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6C1076A5-AB55-4291-86DE-DCF64FFA2F3D - aad010fc8dc4d638"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.Finnhub.Endpoint.path.getter : Swift.String"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "6C1076A5-AB55-4291-86DE-DCF64FFA2F3D - aad010fc8dc4d56e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.Finnhub.Endpoint.path.getter : Swift.String"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57C51801-AC48-4CBD-A627-211D4A33BC7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/Model/Finnhub.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "url(path:symbol:numberOfDays:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57C51801-AC48-4CBD-A627-211D4A33BC7F - 3175a3a3f7464a7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Stocks_App.Finnhub.executiveUrl(Swift.String) -&gt; Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "262"
+                  endingLineNumber = "262"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "57C51801-AC48-4CBD-A627-211D4A33BC7F - 97c57068119b54f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Stocks_App.Finnhub.url(path: Swift.String, symbol: Swift.Optional&lt;Swift.String&gt;, numberOfDays: Swift.Optional&lt;Swift.Double&gt;) -&gt; Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "260"
+                  endingLineNumber = "260"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7345923-578D-4A4E-8C49-FE7027F5B3F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/Model/Finnhub.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "historicalStatsUrl(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7345923-578D-4A4E-8C49-FE7027F5B3F7 - a4d94019ae4d2616"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Stocks_App.Finnhub.symbolUrl(Swift.String) -&gt; Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "E7345923-578D-4A4E-8C49-FE7027F5B3F7 - f088f8f9630ebca2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Stocks_App.Finnhub.historicalStatsUrl(Swift.String) -&gt; Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C32CDB1-B7F7-4C0E-B2EF-36C70900F394"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/Model/Finnhub.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "getDetail(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2C32CDB1-B7F7-4C0E-B2EF-36C70900F394 - ab777ba66f1f62d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; () in static Stocks_App.Finnhub.getDetail(_: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Stocks_App.Finnhub.Profile&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.News&gt;&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Dividend&gt;&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Executive&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "2C32CDB1-B7F7-4C0E-B2EF-36C70900F394 - ea229d0804a0df27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Stocks_App.Finnhub.getDetail(_: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Stocks_App.Finnhub.Profile&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.News&gt;&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Dividend&gt;&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Executive&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "2680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7217782-EE8C-476A-971B-04BFF61B1C2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/Model/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getDetail(_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17FD3021-3E30-41D6-A42E-C0E77D0A48D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/Model/Finnhub.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "getDetail(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17FD3021-3E30-41D6-A42E-C0E77D0A48D0 - d2a453e4cc02cbee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 () -&gt; () in static Stocks_App.Finnhub.getDetail(_: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Stocks_App.Finnhub.Profile&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.News&gt;&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Dividend&gt;&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Executive&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "17FD3021-3E30-41D6-A42E-C0E77D0A48D0 - ab777ba66f1f63ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; () in static Stocks_App.Finnhub.getDetail(_: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Stocks_App.Finnhub.Profile&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.News&gt;&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Dividend&gt;&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Executive&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Finnhub.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F8C642C-D5C7-4170-A613-693B2E3048AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/Model/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getDetail(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F8C642C-D5C7-4170-A613-693B2E3048AE - aa9d39c5f119e69c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Stocks_App.Finnhub.Profile&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.News&gt;&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Dividend&gt;&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Executive&gt;&gt;) -&gt; () in Stocks_App.Provider.getDetail(_: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Array&lt;Stocks_App.DetailSection&gt;, Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Provider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "4F8C642C-D5C7-4170-A613-693B2E3048AE - aa9d39c5f119e69c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Optional&lt;Stocks_App.Finnhub.Profile&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.News&gt;&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Dividend&gt;&gt;, Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Array&lt;Stocks_App.Finnhub.Executive&gt;&gt;) -&gt; () in Stocks_App.Provider.getDetail(_: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Array&lt;Stocks_App.DetailSection&gt;, Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/Model/Provider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DFB16F2-65DF-4A5F-BAD0-E20A61E6849B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "386"
+            endingLineNumber = "386"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EBDB5CC-22EC-4B91-AF97-37506B111A96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "historicalStatsUrl(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EBDB5CC-22EC-4B91-AF97-37506B111A96 - 19c8ff1c130ef38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.MyStocksViewController.tableView(_: __C.UITableView, viewForHeaderInSection: Swift.Int) -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/MyStocksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "323"
+                  endingLineNumber = "323"
+                  offsetFromSymbolStart = "1496">
+               </Location>
+               <Location
+                  uuid = "0EBDB5CC-22EC-4B91-AF97-37506B111A96 - a2652c5ff152f76b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stocks_App.MyStocksViewController.historicalStatsUrl(Swift.String) -&gt; Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Stocks App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saurabh/Downloads/workSpace/Sample%20Stocks%20App/Sample%20Stocks%20App/MyStocksViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "323"
+                  endingLineNumber = "323"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BEF5245-7FB6-4401-8DF3-DB01716798E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/MyStocksViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "loadList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53223559-3202-491F-87C7-A98750050FDE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/StockPictureViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "fetchData(startDate:endDate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FC2C458-6803-401D-8191-27B0354F578B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/StockPictureViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "fetchData(startDate:endDate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B64BBD6-7C98-414A-9381-7F5641909210"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample Stocks App/StockPictureViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "fetchData(startDate:endDate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "C59ADB96-B3FC-4A81-89F7-814CE1DE1859"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "CGPostError">
+            <Locations>
+               <Location
+                  uuid = "C59ADB96-B3FC-4A81-89F7-814CE1DE1859 - 6b2a6ff60c6dfa83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CGPostError"
+                  moduleName = "CoreGraphics"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Atb-xF-G2A">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="Hg0-KT-dM4">
+            <objects>
+                <navigationController id="Atb-xF-G2A" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="lnJ-PE-CbK">
+                        <rect key="frame" x="0.0" y="59" width="393" height="96"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" systemColor="systemTealColor"/>
+                        <textAttributes key="largeTitleTextAttributes">
+                            <color key="textColor" systemColor="systemTealColor"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="MSs-ZO-eJd" kind="relationship" relationship="rootViewController" id="dGR-U4-h1Z"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="MEg-mD-jQI" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-757" y="139"/>
+        </scene>
+        <!--My Stocks-->
+        <scene sceneID="oVf-fe-xM6">
+            <objects>
+                <viewController id="MSs-ZO-eJd" customClass="MyStocksViewController" customModule="Stocks_App" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="yek-TH-ZKq">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="insetGrouped" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="18" sectionFooterHeight="18" translatesAutoresizingMaskIntoConstraints="NO" id="rcg-6X-OiL">
+                                <rect key="frame" x="0.0" y="103" width="393" height="715"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="MSs-ZO-eJd" id="HAw-4s-TLd"/>
+                                    <outlet property="delegate" destination="MSs-ZO-eJd" id="Jq9-lZ-Nqj"/>
+                                </connections>
+                            </tableView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Uxu-IU-1mF">
+                                <rect key="frame" x="127.66666666666669" y="411" width="138" height="30"/>
+                                <state key="normal" title="Add a stock to track">
+                                    <color key="titleColor" systemColor="systemTealColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="addButtonTapped:" destination="MSs-ZO-eJd" eventType="touchUpInside" id="g9h-sP-oJg"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="zKr-GV-EIH"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="rcg-6X-OiL" firstAttribute="top" secondItem="zKr-GV-EIH" secondAttribute="top" id="4BL-DZ-sYa"/>
+                            <constraint firstItem="Uxu-IU-1mF" firstAttribute="centerX" secondItem="yek-TH-ZKq" secondAttribute="centerX" id="6Yv-ED-4fD"/>
+                            <constraint firstItem="Uxu-IU-1mF" firstAttribute="centerY" secondItem="yek-TH-ZKq" secondAttribute="centerY" id="BlD-Rb-v1V"/>
+                            <constraint firstItem="rcg-6X-OiL" firstAttribute="leading" secondItem="zKr-GV-EIH" secondAttribute="leading" id="Ef5-uU-yxL"/>
+                            <constraint firstItem="zKr-GV-EIH" firstAttribute="bottom" secondItem="rcg-6X-OiL" secondAttribute="bottom" id="Spj-9S-dQx"/>
+                            <constraint firstItem="zKr-GV-EIH" firstAttribute="trailing" secondItem="rcg-6X-OiL" secondAttribute="trailing" id="cLH-oC-j9q"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="My Stocks" id="fyZ-fq-Gl5"/>
+                    <connections>
+                        <outlet property="addButton" destination="Uxu-IU-1mF" id="14i-JL-0IE"/>
+                        <outlet property="tableView" destination="rcg-6X-OiL" id="pGq-SE-hVp"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="I7G-mr-MmH" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="139" y="139"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemTealColor">
+            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
